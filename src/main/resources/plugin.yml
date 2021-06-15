@@ -1,0 +1,7 @@
+name: lokiGroups
+version: 1.0.0
+api-version: 1.16
+main: com.loki.lokigroups.LokiGroups
+commands:
+  group:
+    permission: lokigroup.admin
